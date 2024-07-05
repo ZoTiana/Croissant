@@ -1,0 +1,31 @@
+body {
+  background: #f8e8a6;
+}
+h1 {
+  text-align: center;
+}
+a {
+  color: #009a81;
+  margin: 10px;
+}
+img {
+  width: 900px;
+  border-radius: 10px;
+  display: block;
+  margin: 0 auto;
+}
+.customized-link {
+  margin-top: 25px;
+}
+.contact {
+  text-align: center;
+}
+.history {
+  text-align: center;
+}
+.link {
+  text-align: center;
+}
+.mail {
+  color: blue;
+}
